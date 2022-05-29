@@ -1,0 +1,12 @@
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\bin\Debug\net5.0\Minibank.Core.deps.json
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\bin\Debug\net5.0\Minibank.Core.dll
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\bin\Debug\net5.0\Minibank.Core.pdb
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\Minibank.Core.csproj.AssemblyReference.cache
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\Minibank.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\Minibank.Core.AssemblyInfoInputs.cache
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\Minibank.Core.AssemblyInfo.cs
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\Minibank.Core.csproj.CoreCompileInputs.cache
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\Minibank.Core.dll
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\refint\Minibank.Core.dll
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\Minibank.Core.pdb
+C:\Users\bibibe\Minibank_github\Minibank.Web\Minibank.Core\obj\Debug\net5.0\ref\Minibank.Core.dll
